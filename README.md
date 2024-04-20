@@ -5,7 +5,7 @@ This repository contains a report created for assessment purposes in the Reprodu
 "The Big Bang Theory" is a sitcom that premiered on September 24, 2007, and concluded on May 16, 2019. Created by Chuck Lorre and Bill Prady, the show revolves around a group of socially awkward scientists and their interactions with each other and the world around them.
 
 ### Data Source
-The viewership data used in this analysis is sourced from Wikipedia.
+The data used in this analysis is sourced from Wikipedia.
 link_url: "https://en.wikipedia.org/wiki/The_Big_Bang_Theory"
 
 ### Analysis
